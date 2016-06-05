@@ -12,3 +12,14 @@ Sistema de prueba
 * MySQL 5.5
 
 
+Instalación
+===========
+
+* clonar repo
+
+* crear mms db
+
+* php artisan migrate:install
+
+* php artisan migrate
+
