@@ -3,7 +3,7 @@
 Sistema de prueba
 =================
 
-* Laravel installer 1.1
+* Laravel Framework version 5.2.35
 
 * Composer 1.2
 
